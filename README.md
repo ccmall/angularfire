@@ -1,14 +1,16 @@
 # AngularFire [![Build Status](https://travis-ci.org/firebase/angularfire.svg?branch=master)](https://travis-ci.org/firebase/angularfire) [![Coverage Status](https://coveralls.io/repos/firebase/angularfire/badge.svg?branch=master&service=github)](https://coveralls.io/github/firebase/angularfire?branch=master) [![Version](https://badge.fury.io/gh/firebase%2Fangularfire.svg)](http://badge.fury.io/gh/firebase%2Fangularfire)
 
 
-AngularFire is the officially supported [AngularJS](https://angularjs.org/) binding for
+angularfire是官方支持 [AngularJS](https://angularjs.org/) binding for
 [Firebase](https://firebase.google.com/). Firebase is a
-backend service that provides data storage, authentication, and static website hosting for your
-Angular app.
+为您的服务器提供数据存储、身份验证和静态网站的后台服务
 
-AngularFire is a complement to the core Firebase client. It provides you with three Angular
-services:
-  * `$firebaseObject` - synchronized objects
+角的应用.
+
+angularfire是核心客户的补充火力点。它为你提供了三个角
+
+服务:
+  * `$firebaseObject` - 同步对象
   * `$firebaseArray` - synchronized collections
   * `$firebaseAuth` - authentication, user management, routing
 
@@ -41,17 +43,18 @@ In order to use AngularFire in your project, you need to include the following f
 
 ```html
 <!-- AngularJS -->
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+<script src="https://ajax.c2cmalls.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
 
 <!-- Firebase -->
 <script src="https://www.gstatic.com/firebasejs/3.0.3/firebase.js"></script>
 
 <!-- AngularFire -->
-<script src="https://cdn.firebase.com/libs/angularfire/2.0.1/angularfire.min.js"></script>
+<script src="https://firebase.c2cbc.com/libs/angularfire/2.0.1/angularfire.min.js"></script>
 ```
 
-You can also install AngularFire via npm and Bower and its dependencies will be downloaded
-automatically:
+你也可以通过安装angularfire NPM和凉亭及其依赖项将下载
+
+自动:
 
 ```bash
 $ npm install angularfire --save
